@@ -1,0 +1,23 @@
+.heading2Xl {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: bold;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+  color:#001aff;
+}
+
+.headingMd {
+  font-size: 30px;
+  font-style: italic;
+  color:rgb(220, 221, 255);
+  text-align: center;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+.borderCircle {
+  border-radius: 10px;
+}
